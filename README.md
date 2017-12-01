@@ -49,3 +49,4 @@ Technology used React + Redux + Jasmine
     function checkDraw(board) and  
     function checkWinner(board, color, column, row)  
     
+![sample game play screen shot](sample.png)
